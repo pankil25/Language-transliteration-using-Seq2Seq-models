@@ -63,6 +63,6 @@ python train.py --input_embedding_size 256 --encoder_num_layers 3 --decoder_num_
 
 
 
-## Replace /path/to/training_dataset  with the actual paths to your dataset.
+## Replace '/kaggle/input/aksharantar-sampled/aksharantar_sampled'  with the actual paths to dataset.
 
 
