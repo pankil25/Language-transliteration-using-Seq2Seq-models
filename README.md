@@ -1,6 +1,8 @@
 # Sequence-to-Sequence Model Configuration:
 This document outlines the configuration parameters for training a sequence-to-sequence model for various tasks such as machine translation, text summarization, and more.
 
+### This is readme file for train.py
+
 ## Dependencies
 
 Make sure you have the following libraries installed:
