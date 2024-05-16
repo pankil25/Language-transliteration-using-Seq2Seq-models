@@ -6,8 +6,7 @@ This document outlines the configuration parameters for training a sequence-to-s
 Make sure you have the following libraries installed:
 
 - torch >= 1.0
-- torchvision >= 0.2
-- Pillow >= 8.0
+- pandas
 - matplotlib >= 3.0
 - tqdm >= 4.0
 - wandb >= 0.10
