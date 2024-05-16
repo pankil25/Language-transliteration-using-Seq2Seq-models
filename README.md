@@ -5,7 +5,7 @@ This document outlines the configuration parameters for training a sequence-to-s
 
 ## Hyperparameters:
 ### Input Embedding Size
-Values: [16, 32, 64, 256]\\
+Values: [16, 32, 64, 256]<br>
 Description: Specifies the size of the input embedding vector.
 ### Encoder Number of Layers
 Values: [1, 2, 3]
