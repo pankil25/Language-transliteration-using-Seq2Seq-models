@@ -1,6 +1,4 @@
-# cs6910_assignment3
-
-## Sequence-to-Sequence Model Configuration:
+# Sequence-to-Sequence Model Configuration:
 This document outlines the configuration parameters for training a sequence-to-sequence model for various tasks such as machine translation, text summarization, and more.
 
 ## Hyperparameters:
