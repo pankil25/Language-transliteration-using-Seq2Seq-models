@@ -29,7 +29,6 @@ Description: Specifies the dropout probability for regularization.<br>
 Description: Specifies the probability of using teacher forcing during training.<br>
 ### Attention : [True,False]
 Description: Specifies whether attention mechanism is used in the model.<br>
+<br>
+
 ## Usage:
-Adjust the hyperparameters according to your specific task requirements.
-Experiment with different combinations of hyperparameters to find the optimal configuration for your model.
-Refer to the documentation of the sequence-to-sequence model implementation for more details on how to use these parameters.
