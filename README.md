@@ -42,7 +42,7 @@ Description: Specifies the dropout probability for regularization.<br>
 ### Teacher Forcing Ratio : [0.5]
 Description: Specifies the probability of using teacher forcing during training.<br>
 ### Attention : [True,False]
-Description: Specifies whether attention mechanism is used in the model.<br>
+Description: Specifies whether you want attention mechanism to be used in the model.<br>
 ### Mode: ["Normal","Test"]
 Description: Specifies whether You want to run Train and Validation Dataset or want to run on Train and Test Dataset.<br>
 <br>
@@ -73,7 +73,7 @@ Description: Specifies whether You want to run Train and Validation Dataset or w
                         
 ## Example Usage for train.py:<br>
 
-## python train.py --input_embedding_size 256 --encoder_num_layers 3 --decoder_num_layers 3 --hidden_size 1024 --cell_type LSTM --bidirectional True --batch_size 128 --learning_rate 0.0001 --num_epochs 15 --dropout 0.2 --teacher_forcing_ratio 0.5 --attention True --mode Normal --wandb_project DL_Assignment_2_CS23M046 --wandb_entity cs23m046 --Folder_path '/kaggle/input/aksharantar-sampled/aksharantar_sampled' --Folder_name 'guj'
+## python train.py --input_embedding_size 32 --encoder_num_layers 1 --decoder_num_layers 2 --hidden_size 1024 --cell_type LSTM --bidirectional True --batch_size 128 --learning_rate 0.001 --num_epochs 15 --dropout 0.3 --teacher_forcing_ratio 0.5 --attention False --mode Normal --wandb_project DL_Assignment_2_CS23M046 --wandb_entity cs23m046 --Folder_path '/kaggle/input/aksharantar-sampled/aksharantar_sampled' --Folder_name 'guj'
 
 
 
