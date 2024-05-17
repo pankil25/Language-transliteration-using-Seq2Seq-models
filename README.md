@@ -34,7 +34,7 @@ Description: Specifies whether the encoder is bidirectional or not.<br>
 Description: Specifies the number of training examples in each batch.<br>
 ### Learning Rate : [0.001, 0.0001]
 Description: Specifies the learning rate for training the model.<br>
-### Number of Epochs : [5, 10, 15]
+### Number of Epochs : [5, 10, 15 ,20]
 Description: Specifies the number of training epochs.<br>
 ### Dropout : [0.2, 0.3]
 Description: Specifies the dropout probability for regularization.<br>
