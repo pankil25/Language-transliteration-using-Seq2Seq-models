@@ -9,9 +9,8 @@ Make sure you have the following libraries installed:
 
 - torch >= 1.0
 - pandas
-- matplotlib >= 3.0
 - tqdm >= 4.0
-- wandb >= 0.10
+- wandb = 0.14.0 (If you want to plot attention heatmap using wandb plots as in latest version heatmap functionality is depriciated)
 - argparse
 
 You can install these dependencies using pip:
