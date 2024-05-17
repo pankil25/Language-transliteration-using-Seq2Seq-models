@@ -66,6 +66,6 @@ python train.py --input_embedding_size 256 --encoder_num_layers 3 --decoder_num_
 
 
 
-## Replace '/kaggle/input/aksharantar-sampled/aksharantar_sampled'  with the actual path to dataset.
+## Replace '/kaggle/input/aksharantar-sampled/aksharantar_sampled'  with the actual path to dataset in Folder_path argument.If you want to use different language then you can replace 'guj' with your language name in Folder_name argument
 
 
