@@ -1,7 +1,8 @@
 # Sequence-to-Sequence Model Configuration:
 This document outlines the configuration parameters for training a sequence-to-sequence model for various tasks such as machine translation, text summarization, and more.
 
-### This is readme file for train.py
+### This is readme file for train.py<br>
+### for CS23M046_DL_assignment_3.ipynb you can run from top to bottom cell sequencially. Also appropiate comments are mentioned to understanding flow of code.
 
 ## Dependencies
 
