@@ -9,11 +9,14 @@ Make sure you have the following libraries installed:
 
 - torch >= 1.0
 - pandas
+- scikit-learn (needed for heatmap plot using wandb)
 - tqdm >= 4.0
 - wandb = 0.14.0 (If you want to plot attention heatmap using wandb plots as in latest version heatmap functionality is depriciated)
 - argparse
 
 You can install these dependencies using pip:
+
+!pip install wandb==0.14.0 scikit-learn
 
 ## Hyperparameters:
 ### Input Embedding Size : [16, 32, 64, 256]
